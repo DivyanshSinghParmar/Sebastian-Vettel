@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,500&display=swap');
+
+header{
+    background-color: darkred;
+    height: 55px;
+    display: flex;
+    font-family: 'Lora', serif;
+}
+nav{
+    display: flex;
+
+}
+.heading{
+    display: flex;
+    padding-inline-start: 70vh;
+}
+
+a{
+    color: white;
+}
+
+main{
+    padding: 10px;
+    height: 800vh;
+    color: white;
+    background-image: url(/funnybackground.jpg);
+    background-attachment:fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-family: 'Lora', serif;
+}
+
+.fans{
+    display: flex;
+}
+.fans1{
+    height: 400px;
+    width: 400px;
+}
+.fans2{
+    width: 400px;
+    height: 400px;
+}
+.fans3{
+    width: 400px;
+    height: 400px;
+}
+.funny{
+    width: 45%;
+}
+.ferrarifunny{
+    width: 45%;
+}
+.friday{
+    width: 75%;
+}
+
+.try{
+    width: 80%;
+}
+
+.kimi{
+    width: 30%;
+}
+.torro{
+    width: 50%;
+}
+
+.grossjean{
+    width: 50%;
+}
+.naming{
+    width: 40%;
+}
+footer{
+    height: 12vw;
+    background-color: black;
+    color: white;
+    font-family: 'Supermercado One', cursive;
+    
+}

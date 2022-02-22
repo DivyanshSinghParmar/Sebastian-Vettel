@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two:ital@1&family=Supermercado+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Supermercado+One&display=swap');
+
+header{
+    justify-content:flex-start;
+    background-color: rgb(131, 4, 4);
+    border: 5px solid rgb(255, 255, 255);
+    display: flex;
+    color: whitesmoke  ;
+}
+
+a:hover{
+    color: white;
+}
+
+header nav ul{
+    
+    height: 10vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items:center;
+    color: white;
+}
+
+nav ul li{
+    
+    color: white;
+    padding: 0 16px;
+    list-style-type: none;
+}
+nav ul li a{
+    
+    font-size: 20px;
+    color: white;
+    font-family: 'Lobster', cursive;
+font-family: 'Lobster Two', cursive;
+font-family: 'Supermercado One', cursive;
+
+}
+
+main{
+    height: 1050vh;
+    background-image:url(/background.jpg);
+    background-attachment: fixed;
+    background-size:contain;
+    color: white;
+}
+
+.child{
+    height: 200px;
+}
+.standings{
+    height: 200px;
+    width: 600px;
+}
+.beforeF1{
+    height: 200px;
+}
+.monzapole{
+    height: 200px;
+}
+.monzawin{
+    height: 200px;
+}
+.vetalo{
+    height: 200px;
+}
+.schumicrash{
+    height: 200px;
+}
+.radioone{
+    height: 200px;
+}
+.championwin{
+    height: 400px;
+    margin: 100px;
+}
+.radiovideo{
+    height:  300px;
+    margin: 100px;
+}
+
+footer{
+    height: 12vw;
+    background-color: black;
+    color: white;
+    font-family: 'Supermercado One', cursive;
+}

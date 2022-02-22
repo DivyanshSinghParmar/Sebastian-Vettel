@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+
+header{
+    display: flex;
+    height: 15vh;
+    background-color: darkred;
+    color: white;
+    background-blend-mode: exclusion;
+    font-size: 25px;
+}
+
+.heading{
+    display: flex;
+    
+padding-inline-start: 50vh;
+}
+
+nav{
+    display:flex;
+    
+}
+nav a{
+    color: white;
+}
+
+main{
+    height: 600vh;background-image: url(/schumibackground.jpg);
+    background-attachment:fixed ;
+    background-size:contain;
+    font-family: 'Nunito', sans-serif;
+
+    color: white;
+}
+
+.sebandmichael{
+    width: 600px;
+    margin: 50px;
+   margin-inline-start: 310px;
+   opacity: 50%;
+}
+.kart{
+    width: 300px;
+    margin-inline-start: 450px;
+    opacity: 50%;
+}
+.brazilgift{
+    opacity: 70%;
+    height: 500px;
+    width: 400px;
+    margin-inline-start: 450px;
+}
+
+.joy
+{
+    width: 300px;
+    display:inline-flex;
+    padding: 30px;
+    
+}
+.schoom{
+    margin-inline-start: 70px;
+    width: 400px;
+    opacity: 70%;
+}
+.kneel{
+width: 500px;
+margin-inline-start: 80px;
+opacity: 70%;
+}
+
+.then{
+    width: 300px;
+    margin-inline-start: 190px;
+    opacity: 70%;
+}
+.what{
+    width: 500px;
+    height: 540px;
+    margin-inline-start: 190px;
+    opacity: 90%;
+}
+a:hover{
+
+    color: white;
+}
+
+footer{
+    height: 12vw;
+    background-color: black;
+    color: white;
+    font-family: 'Supermercado One', cursive;
+}
